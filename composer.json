@@ -1,0 +1,15 @@
+{
+    "name": "sustmi/ecs-missing-reports",
+    "autoload": {
+        "psr-4": {
+            "Sustmi\\EcsMissingReports\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miroslav Sustek",
+            "email": "sustmidown@centrum.cz"
+        }
+    ],
+    "require": {}
+}
